@@ -9,7 +9,7 @@ int main(void){
     string nome;
     cout << "Qual seu nome:";
     cin >> nome;
-    cout << "Bom dia " << nome << endl;
+    cout << "Bom noite " << nome << endl;
 
 
     return 0;
